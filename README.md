@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm NIBIR DAS</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
-<img align = "right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+[![](https://visitcount.itsvg.in/api?id=NibirDas&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nibirdas&label=Profile%20views&color=0e75b6&style=flat" alt="nibirdas" /> </p>
+<img align = "right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
  ### 💫 About Me:
 
@@ -41,7 +41,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NibirDas&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NibirDas&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=NibirDas&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
