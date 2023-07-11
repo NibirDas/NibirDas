@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/NibirDas/NibirDas/blob/main/Black%20Modern%20Minimalist%20Simple%20Technology%20Banner.png)
 <h1 align="center">Hi 👋, I'm NIBIR DAS</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
