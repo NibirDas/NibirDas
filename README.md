@@ -4,8 +4,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=NibirDas&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img align = "right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-
  ### 💫 About Me:
 
 - 🔭 I’m currently working on **DNA sequencing with BIG DATA**
