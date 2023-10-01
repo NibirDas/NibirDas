@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **DNA sequencing with BIG DATA**
 
-- 👨‍💻 All of my projects are available at [#coming soon](#coming soon)
+- 👨‍💻 All of my projects are available at https://avi29.netlify.app/project
 
 - 📝 I regularly write articles on [#coming soon](#coming soon)
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **das579nibir@gmail.com**
 
-- 📄 Know about my experiences [#coming soon](#coming soon)
+- 📄 Know about my experiences https://avi29.netlify.app/exp
 
 - ⚡ Fun fact **I have OCPD. So, I am very strict about organizing**
 
